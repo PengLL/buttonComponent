@@ -11,7 +11,7 @@
 * metro-default-bn
 * metro-default-bn
 * border-default-bn
-#####每种风格有已经定义好的十种颜色
+##### 每种风格有已经定义好的十种颜色
 * color-normal
 * color-reminder
 * color-ensure
@@ -22,7 +22,7 @@
 * color-matcha
 * color-silence
 * color-sea
-#####每种风格有定义好的三种大小
+##### 每种风格有定义好的三种大小
 * border-small
 * border-middle
 * border-large
