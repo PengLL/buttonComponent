@@ -8,9 +8,9 @@
 #####首先在页面引入css文件
 #####接着按需添加class
 #####三种风格对应三个类，只需在需要的按钮的class属性中加入该类
-*metro-default-bn
-*metro-default-bn
-*border-default-bn
+* metro-default-bn
+* metro-default-bn
+* border-default-bn
 #####每种风格有已经定义好的十种颜色
 *color-normal
 *color-reminder
